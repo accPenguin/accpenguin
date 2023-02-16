@@ -2,7 +2,7 @@
 
 ### Hi there, I'm [accpenguin]（企鹅君）. 👋
 
-<img align="right" width="200" src="https://github.com/accPenguin/accpenguin/blob/main/EJ2%24L5BG_%24Z2%7E2DG1_9UV0D.jpg">
+<img align="right" width="200" src="https://web-1306902317.cos.ap-beijing.myqcloud.com/QQ%E5%9B%BE%E7%89%8720230216194426.jpg">
 
 I am a learning student from China.
 I like open source and all interesting things and want to try to do it.
