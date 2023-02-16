@@ -2,7 +2,7 @@
 
 ### Hi there, I'm [accpenguin]（企鹅君）. 👋
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
+<img align="right" width="200" src="https://github.com/accPenguin/accpenguin/blob/main/EJ2%24L5BG_%24Z2%7E2DG1_9UV0D.jpg">
 
 I am a learning student from China.
 I like open source and all interesting things and want to try to do it.
@@ -10,7 +10,7 @@ I like open source and all interesting things and want to try to do it.
 I want to be an interesting person and create something that can be remembered by others.
 
 
-- 🔭 I’m currently writing some amateur [open source projects](https://github.com/YunYouJun?tab=repositories), interned at [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/).
+- 🔭 I’m currently writing some amateur [open source projects], interned at [@Tencent]+ [@Alipay].
 - 🌱 I’m currently learning Computer Graphics & FE & Drawing, and want to learn everything interesting.
 - 🤔 I want to make a pure front-end (more html & css than canvas) AVG engine. 
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺
@@ -23,7 +23,7 @@ I want to be an interesting person and create something that can be remembered b
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=YunYouJun&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=accPenguin&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
