@@ -6,14 +6,13 @@
 
 I am a learning student from China.
 I like open source and all interesting things and want to try to do it.
-
 I want to be an interesting person and create something that can be remembered by others.
 
 
 - 🔭 I’m currently writing some amateur [open source projects], interned at [@Tencent]+ [@Alipay].
 - 🌱 I’m currently learning Computer Graphics & FE & Drawing, and want to learn everything interesting.
-- 🤔 I want to make a pure front-end (more html & css than canvas) AVG engine. 
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺
+- 🤔 I want to make a pure front-end engine. 
+- ❤️ I like eating 🍎, planting 🌼, playing ⚽, sleeping in 🛌 and watching 📺
 - 💬 Be free to ask me about anything [here](https://github.com/accPenguin/accpenguin/issues).
 
 ---
